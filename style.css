@@ -18,6 +18,10 @@ header {
     
 }
 
+#form {
+    margin: 0 auto;
+    width: 500px;
+}
 
 .search {
     border-radius: 50px;
@@ -27,6 +31,7 @@ header {
     font-size: 1rem;
     color: white;
     padding: 0.5rem 1rem;
+    width: 100%;
     
 }
 
